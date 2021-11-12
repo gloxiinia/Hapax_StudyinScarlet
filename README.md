@@ -1,4 +1,4 @@
-# Hapax_StudyinScarlet
+# Programming Files Forum Exercise
 Rachel Anastasia Wijaya / Class L1BC
 
 Code for File Algorithm and Programming Assignment Week 6
